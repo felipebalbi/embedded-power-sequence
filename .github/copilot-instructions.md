@@ -1,5 +1,10 @@
 # Copilot Instructions
 
+> **See [`AGENTS.md`](../AGENTS.md) at the repository root for the full
+> agent-facing guide** (project overview, conventions, the `#[power_state]`
+> macro contract, CI commands, per-pilot notes, and common tasks). This
+> file intentionally only covers commit-message and AI-attribution rules.
+
 ## Commit Messages
 - Subject line: capitalized, 50 characters or less, imperative mood (e.g., "Fix bug" not "Fixed bug")
 - Separate subject from body with a blank line
